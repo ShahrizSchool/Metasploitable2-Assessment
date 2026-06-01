@@ -1,8 +1,8 @@
 # Metasploitable 2 - Remediation Report
-**Target:** Metasploitable 2 IP Address
-**Scanner:** Custom Vulnerability Scanner
-**Date:** 2026-05-31
-**Environment:** Isolated VirtualBox host-only network
+**Target:** Metasploitable 2 IP Address  
+**Scanner:** Custom Vulnerability Scanner  
+**Date:** 2026-05-31  
+**Environment:** Isolated VirtualBox host-only network  
 
 ## CVE Remediations
 ### Remediation 001 - Apache httpd 2.2.8 (CVE-2010-0425)
